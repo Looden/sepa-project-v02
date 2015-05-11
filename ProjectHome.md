@@ -1,0 +1,3 @@
+This codes will help u ceate your won sepa.xml files without paying any 3rd party program. I've integrated this code to our current web-based automation program, and we can generate .xml file(s) from database which is includes customer/payer bank informations. This sample has been tested succesfully for German IBAN system.
+
+<a href='https://code.google.com/p/sepa-project-v02/source/browse/#svn%2Ftrunk'>Go to Files</a>
